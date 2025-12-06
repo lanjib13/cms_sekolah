@@ -1,0 +1,19 @@
+# 1. Variabel Lingkungan
+.env
+.env.local
+
+# 2. Direktori Dependensi
+/node_modules
+
+# 3. File Build
+/dist
+/build
+
+# 4. File IDE
+.vscode/
+.idea/
+
+# 5. File Log dan Cache
+npm-debug.log*
+yarn-error.log
+/tmp
